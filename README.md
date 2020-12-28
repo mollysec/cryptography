@@ -5,7 +5,7 @@ List of algorithms analyzed during the 'Cryptography' course from the 'Master De
 **Goal:** state whether a given number natural number n is prime or composite.
 
 **Content:**
- - [Miller-Rabin's test](???)
+ - [Miller-Rabin's test](https://github.com/mollylandd/cryptography/blob/master/1-primality-test-algorithms/miller-rabin-test.ipynb)
  - [...](???)
 
 ## Factoring algorithms
