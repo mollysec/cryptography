@@ -85,6 +85,7 @@ tomcat-logs/
 
 # target folder
 target/
+.ipynb_checkpoints/
 
 # OS generated files
 .DS_Store
