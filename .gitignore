@@ -85,7 +85,22 @@ tomcat-logs/
 
 # target folder
 target/
-.ipynb_checkpoints/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.py[co]
+__pycache__
+*.egg-info
+*.bak
+.tox
+\#*#
+.#*
+.coverage
+.pytest_cache
+profile_default/
+ipython_config.py
+.Python
 
 # OS generated files
 .DS_Store
