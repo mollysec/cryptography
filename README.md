@@ -6,7 +6,7 @@ List of algorithms analyzed during the 'Cryptography' course from the 'Master De
 
 **Content:**
  - [Miller-Rabin's test](https://github.com/mollylandd/cryptography/blob/master/1-primality-test-algorithms/miller-rabin-test.ipynb)
- - [...](???)
+ - [](???)
 
 ## Factoring algorithms
 **Goal:** ...
@@ -15,4 +15,6 @@ List of algorithms analyzed during the 'Cryptography' course from the 'Master De
  - [...](???)
 
 ### Prerequisites
-It is used [Python 3.x](https://www.python.org/downloads/) and some useful modules such as ``` mpmath ```.
+It is used [Python 3.x](https://www.python.org/downloads/) with ``` jupyter-notebook```. Then you also need the following modules:
+- ``` mpmath ``` => ``` pip install mpmath ```
+- ``` sympy ``` => ``` pip install sympy ```
