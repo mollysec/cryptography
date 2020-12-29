@@ -2,14 +2,14 @@
 List of algorithms analyzed during the 'Cryptography' course from the 'Master Degree in ICT Engineering', University of Padova, A.Y. 2020/2021.
 
 ## Primality test algorithms
-**Goal:** state whether a given number natural number n is prime or composite.
+**Goal:** state whether a given number natural number is prime or composite.
 
 **Content:**
  - [Miller-Rabin's test](https://github.com/mollylandd/cryptography/blob/master/1-primality-test-algorithms/miller-rabin-test.ipynb)
- - [Akrawal - Kayal - Saxena (AKS) algorithm](https://github.com/mollylandd/cryptography/blob/master/1-primality-test-algorithms/aks-test.ipynb)
+ - [Akrawal-Kayal-Saxena (AKS) algorithm](https://github.com/mollylandd/cryptography/blob/master/1-primality-test-algorithms/aks-test.ipynb)
 
 ## Factoring algorithms
-**Goal:** ...
+**Goal:** find (at least) one divisor of a given natural number.
 
 **Content:**
  - [...](???)
