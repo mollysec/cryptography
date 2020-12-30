@@ -13,7 +13,8 @@ List of algorithms analyzed during the 'Cryptography' course from the 'Master De
 **Goal:** find (at least) one divisor of a given natural number.
 
 **Content:**
- - [...](???)
+ - [Trial-division method](https://github.com/mollylandd/cryptography/blob/master/2-factoring-algorithms/trial-division-method.ipynb)
+ - [Fermat factoring algorithm](https://github.com/mollylandd/cryptography/blob/master/2-factoring-algorithms/fermat-factoring.ipynb)
 
 ### Prerequisites
 It is used [Python 3.x](https://www.python.org/downloads/) with ``` jupyter-notebook```. Then you also need the following modules:
