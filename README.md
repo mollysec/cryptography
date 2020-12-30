@@ -7,6 +7,7 @@ List of algorithms analyzed during the 'Cryptography' course from the 'Master De
 **Content:**
  - [Miller-Rabin's test](https://github.com/mollylandd/cryptography/blob/master/1-primality-test-algorithms/miller-rabin-test.ipynb)
  - [Akrawal-Kayal-Saxena (AKS) algorithm](https://github.com/mollylandd/cryptography/blob/master/1-primality-test-algorithms/aks-test.ipynb)
+ - [Eratosthenes' sieve](https://github.com/mollylandd/cryptography/blob/master/1-primality-test-algorithms/eratosthenes-%20sieve.ipynb)
 
 ## Factoring algorithms
 **Goal:** find (at least) one divisor of a given natural number.
