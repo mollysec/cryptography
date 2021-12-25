@@ -18,6 +18,7 @@ List of algorithms analysed during the 'Cryptography' course from the M.Sc. in I
  - [Trial-division method](https://github.com/albertomolon/cryptography/blob/master/2-factoring-algorithms/trial-division-method.py)
 
 ### Prerequisites
-It is used [Python 3.x](https://www.python.org/downloads/). Then you also need the following modules:
+It is used [Python 3.x](https://www.python.org/downloads/) and the following modules:
+- ``` Crypto.Utils.number ``` => ``` pip install pycryptodome```
 - ``` mpmath ``` => ``` pip install mpmath ```
 - ``` gmpy2 ``` => ``` pip install gmpy2 ```
