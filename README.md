@@ -5,19 +5,19 @@ List of algorithms analyzed during the 'Cryptography' course from the 'Master De
 **Goal:** state whether a given natural number is prime or composite.
 
 **Content:**
- - [Miller-Rabin's test](https://github.com/mollylandd/cryptography/blob/master/1-primality-test-algorithms/miller-rabin-test.ipynb)
- - [Akrawal-Kayal-Saxena (AKS) algorithm](https://github.com/mollylandd/cryptography/blob/master/1-primality-test-algorithms/aks-test.ipynb)
- - [Eratosthenes' sieve](https://github.com/mollylandd/cryptography/blob/master/1-primality-test-algorithms/eratosthenes-%20sieve.ipynb)
+ - [Miller-Rabin's test]()
+ - [Akrawal-Kayal-Saxena (AKS) algorithm]()
+ - [Eratosthenes' sieve]()
 
 ## Factoring algorithms
 **Goal:** find (at least) one divisor of a given natural number.
 
 **Content:**
- - [Trial-division method](https://github.com/mollylandd/cryptography/blob/master/2-factoring-algorithms/trial-division-method.ipynb)
- - [Fermat factoring algorithm](https://github.com/mollylandd/cryptography/blob/master/2-factoring-algorithms/fermat-factoring.ipynb)
- - [Pollard's rho method with Floyd iterations](https://github.com/mollylandd/cryptography/blob/master/2-factoring-algorithms/pollard-rho-floyd-iterations.ipynb)
+ - [Trial-division method]()
+ - [Fermat factoring algorithm]()
+ - [Pollard's rho method with Floyd iterations]()
 
 ### Prerequisites
-It is used [Python 3.x](https://www.python.org/downloads/) with ``` jupyter-notebook```. Then you also need the following modules:
+It is used [Python 3.x](https://www.python.org/downloads/). Then you also need the following modules:
 - ``` mpmath ``` => ``` pip install mpmath ```
-- ``` sympy ``` => ``` pip install sympy ```
+- ``` gmpy2 ``` => ``` pip install gmpy2 ```
