@@ -1,3 +1,5 @@
+# Script to generate a smooth prime number with a given smoothness
+
 from binascii import hexlify
 from gmpy2 import *
 
@@ -35,3 +37,4 @@ def get_smooth_prime(state, bits, smoothness=16):
 
 if __name__ == "__main__":
     q, q_factors = get_smooth_prime(STATE, 1500, 17)
+
